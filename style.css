@@ -168,7 +168,9 @@ body {
 
 /* Footer things */
 .attribution {
-  font-size: 11px;
+  position: fixed;
+  bottom: 10px;
+  font-size: 12px;
   text-align: center;
 }
 
