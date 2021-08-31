@@ -10,6 +10,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
+- [Links](#links)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -67,3 +68,8 @@ The designs were created to the following widths:
 
 - Website - [Georgi Serafimov](https://www.linkedin.com/in/georgi-serafimov-a03b58176/)
 - Frontend Mentor - [@dontgiveup6](https://www.frontendmentor.io/profile/dontgiveup6)
+
+## Links
+
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/html5-semantics-css3-responsive-83x8xDYYl)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
