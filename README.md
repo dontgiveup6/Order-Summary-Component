@@ -71,5 +71,5 @@ The designs were created to the following widths:
 
 ## Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/html5-semantics-css3-responsive-83x8xDYYl)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/html5-semantics-css3-responsive-83x8xDYYl](https://www.frontendmentor.io/solutions/html5-semantics-css3-responsive-83x8xDYYl)
+- Live Site URL: [https://dontgiveup6.github.io/Order-Summary-Component](https://dontgiveup6.github.io/Order-Summary-Component/)
